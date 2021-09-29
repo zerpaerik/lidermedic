@@ -55,14 +55,14 @@
 </head>
 <body>
 
-    <img src="/var/www/html/sistemamadreteresa/public/image.png"  style="width: 20%; color: black;"/>
+    <img src="/var/www/html/sistemaLidermedic/public/image.png"  style="width: 20%; color: black;"/>
 
 
 	<p style="margin-left: 550px;margin-top: -100px;"><strong>SEDE:</strong>{{ Session::get('sedeName') }}</p>
 
 
   <p><strong>DOCTOR:</strong>{{ $ticketu->lasto.' '.$ticketu->nameo}}</p>
-  <p><strong>CONSULTORIO:</strong>MADRE TERESA</p>
+  <p><strong>CONSULTORIO:</strong>LIDERMEDIC</p>
   <p><strong>RECIBO: </strong>REC-2021-{{ $ticketu->recibo}}</p>
 
 

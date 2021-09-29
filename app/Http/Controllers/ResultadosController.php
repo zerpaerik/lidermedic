@@ -534,7 +534,7 @@ class ResultadosController extends Controller
         if($resultados->tipo_origen == 2){
         $informe->setValue('indicacion',$resultados->id_origen);
         } else {
-        $informe->setValue('indicacion','MADRE TERESA');
+        $informe->setValue('indicacion','LIDERMEDIC');
         } 
         $informe->saveAs($resultados->id.'-'.$resultados->apellidos.'-'.$resultados->nombres.'-'.$resultados->dni.'.docx');
         return response()->download($resultados->id.'-'.$resultados->apellidos.'-'.$resultados->nombres.'-'.$resultados->dni.'.docx');
@@ -584,7 +584,7 @@ class ResultadosController extends Controller
         if($resultados->tipo_origen == 2){
           $informe->setValue('indicacion',$resultados->id_origen);
           } else {
-          $informe->setValue('indicacion','MADRE TERESA');
+          $informe->setValue('indicacion','LIDERMEDIC');
         }     
         $informe->saveAs($resultados->id.'-'.$resultados->apellidos.'-'.$resultados->nombres.'-'.$resultados->dni.'.docx');
         return response()->download($resultados->id.'-'.$resultados->apellidos.'-'.$resultados->nombres.'-'.$resultados->dni.'.docx');

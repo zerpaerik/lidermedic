@@ -3,7 +3,7 @@
 <a href="{{route('home')}}" class="brand-link">
 <img src="logo.jpeg" class="img-circle elevation-2" alt="User Image" width="40">
       
-      <span class="brand-text font-weight-light">ADMIN MadreTeresa</span>
+      <span class="brand-text font-weight-light">ADMIN Lidermedic</span>
     </a>
 
 <div class="sidebar">
@@ -518,7 +518,7 @@
 <a href="{{route('home')}}" class="brand-link">
 <img src="logo.jpeg" class="img-circle elevation-2" alt="User Image" width="40">
       
-      <span class="brand-text font-weight-light">ADMIN MadreTeresa</span>
+      <span class="brand-text font-weight-light">ADMIN Lidermedic</span>
     </a>
 
 <div class="sidebar">
@@ -902,7 +902,7 @@
 <a href="{{route('home')}}" class="brand-link">
 <img src="logo.jpeg" class="img-circle elevation-2" alt="User Image" width="40">
       
-      <span class="brand-text font-weight-light">ADMIN MadreTeresa</span>
+      <span class="brand-text font-weight-light">ADMIN Lidermedic</span>
     </a>
 
 <div class="sidebar">
@@ -1210,7 +1210,7 @@
 <a href="{{route('home')}}" class="brand-link">
 <img src="logo.jpeg" class="img-circle elevation-2" alt="User Image" width="40">
       
-      <span class="brand-text font-weight-light">ADMIN MadreTeresa</span>
+      <span class="brand-text font-weight-light">ADMIN Lidermedic</span>
     </a>
 
 <div class="sidebar">
@@ -1441,7 +1441,7 @@
 <a href="{{route('home')}}" class="brand-link">
 <img src="logo.jpeg" class="img-circle elevation-2" alt="User Image" width="40">
       
-      <span class="brand-text font-weight-light">ADMIN MadreTeresa</span>
+      <span class="brand-text font-weight-light">ADMIN Lidermedic</span>
     </a>
 
 <div class="sidebar">
